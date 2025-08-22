@@ -11,10 +11,6 @@ I'm currently learning Functions/Methods and JavaScript MVC
 - 🛠 Tools: Git, Docker, VS Code
 
 
-- ## 🚀 Featured Projects
-- 🛠 [Project 1](https://github.com/username/project1) - Brief description
-- 🌍 [Project 2](https://github.com/username/project2) - Brief description
-
 
 ## 🌎 Connect with Me
 
@@ -33,4 +29,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- ## 🚀 Featured Projects
+- 🛠 [Project 1](https://github.com/username/project1) - Brief description
+- 🌍 [Project 2](https://github.com/username/project2) - Brief description
+
 -->
