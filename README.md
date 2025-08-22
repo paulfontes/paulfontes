@@ -19,7 +19,7 @@ I'm currently learning Functions/Methods and JavaScript MVC
 ## 🌎 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulfontes22/)
-- 📫 [Email]pgfon22@gmail.com
+- 📫 [Email]: pgfon22@gmail.com
 <!--
 **paulfontes/paulfontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
