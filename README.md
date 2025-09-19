@@ -2,7 +2,7 @@
 I'm a software developer passionate about web development and open-source projects.
 
 I'm currently working on a couple simple games built in JS/HTML/CSS these games showcase some core practices used in JS and are simple but fun!
-I'm currently learning Functions/Methods and JavaScript MVC
+I'm currently learning the Vue Framework and how powerful and helpful it can be!
 
 
 ## 🔥 Tech Stack
