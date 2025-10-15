@@ -1,13 +1,14 @@
 # Hi there, I'm Paul Fontes! 👋
 I'm a software developer passionate about web development and open-source projects.
 
-I'm currently working on a couple simple games built in JS/HTML/CSS these games showcase some core practices used in JS and are simple but fun!
-I'm currently learning the Vue Framework and how powerful and helpful it can be!
+I'm currently working on a couple bigger projects with the backend being built with C#, SQL, and Postman. The frontend is being built with Vue!
+
+I'm constently learning new things everyday and trying to improve my craft along the way!
 
 
 ## 🔥 Tech Stack
-- 💻 Languages: JavaScript, Python, HTML, CSS
-- ⚡ Frameworks: React, Node.js, Django
+- 💻 Languages: JavaScript, C#, SQL, HTML, CSS
+- ⚡ Frameworks: Vue
 - 🛠 Tools: Git, Docker, VS Code
 
 
