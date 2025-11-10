@@ -5,6 +5,8 @@ I'm currently working on a couple bigger projects with the backend being built w
 
 I'm constently learning new things everyday and trying to improve my craft along the way!
 
+Check out my web application I've built/still working on with a friend! https://my-game-list.org
+
 
 ## 🔥 Tech Stack
 - 💻 Languages: JavaScript, C#, SQL, HTML, CSS
