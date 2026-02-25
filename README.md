@@ -27,14 +27,13 @@ Take a look at my ongoing project, built with a friend: [my-game-list.org](https
 
 ## 🚀 Featured Projects
 - 🕹️ **My Game List** – A web app to track and manage your video game collection.  
-  Tech: C#, SQL, Postman, Vue  
   🔗 Live: [my-game-list.org](https://my-game-list.org)
 
-- 🧑‍💻 **GitHub Profile & Portfolio** – This profile repo showcasing my tech stack, projects, and journey as a developer.  
-  🔗 Repo: [paulfontes/paulfontes](https://github.com/paulfontes/paulfontes)
+- 🧑‍💻 **keepr** -- Pinterest style web application  
+  🔗 Repo: https://github.com/paulfontes/keepr
 
-- 📦 **More Projects** – Explore more of what I’m working on.  
-  🔗 Repos: [github.com/paulfontes?tab=repositories](https://github.com/paulfontes?tab=repositories)
+- 📦 **Tower** -- Meetup style web application 
+  🔗 Repo: https://github.com/paulfontes/tower
 
 ## 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulfontes22/)
