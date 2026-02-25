@@ -5,6 +5,16 @@ Currently, I'm building robust full-stack applications — architecting the back
 I'm dedicated to continuous learning, embracing new technologies, and honing my skills every day.  
 Take a look at my ongoing project, built with a friend: [my-game-list.org](https://my-game-list.org)  
 
+## 🚀 Featured Projects
+- 🕹️ **My Game List** – A web app to track and manage your video game collection.  
+  🔗 Live: [my-game-list.org](https://my-game-list.org)
+
+- 🧑‍💻 **keepr** -- Pinterest style web application  
+  🔗 Repo: https://github.com/paulfontes/keepr
+
+- 📦 **Tower** -- Meetup style web application  
+  🔗 Repo: https://github.com/paulfontes/tower
+  
 ## 🔥 Tech Stack
 **Languages** :  
 [![JavaScript](https://img.shields.io/badge/JavaScript-1.5y-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -25,15 +35,6 @@ Take a look at my ongoing project, built with a friend: [my-game-list.org](https
 - 🌱 **Currently learning:** deeper backend patterns in C#, database design, and advanced Vue ecosystem tools
 - 🎯 **Goals:** keep improving as a full‑stack developer and contribute more to open‑source projects
 
-## 🚀 Featured Projects
-- 🕹️ **My Game List** – A web app to track and manage your video game collection.  
-  🔗 Live: [my-game-list.org](https://my-game-list.org)
-
-- 🧑‍💻 **keepr** -- Pinterest style web application  
-  🔗 Repo: https://github.com/paulfontes/keepr
-
-- 📦 **Tower** -- Meetup style web application  
-  🔗 Repo: https://github.com/paulfontes/tower
 
 ## 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulfontes22/)
