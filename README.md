@@ -32,7 +32,7 @@ Take a look at my ongoing project, built with a friend: [my-game-list.org](https
 - 🧑‍💻 **keepr** -- Pinterest style web application  
   🔗 Repo: https://github.com/paulfontes/keepr
 
-- 📦 **Tower** -- Meetup style web application 
+- 📦 **Tower** -- Meetup style web application  
   🔗 Repo: https://github.com/paulfontes/tower
 
 ## 🌎 Connect with Me
